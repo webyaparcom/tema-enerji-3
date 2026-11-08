@@ -1,0 +1,39 @@
+{
+  "id": "aehw1g1pgu",
+  "name": {
+    "tr": "Teklif Al",
+    "en": "Get a Quote",
+    "ar": "اطلب عرض سعر"
+  },
+  "description": {
+    "tr": "Hizmeti ve uygun günü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur.",
+    "en": "Choose the service and a convenient day; on this demo site your request is created only in your browser.",
+    "ar": "اختر الخدمة واليوم المناسب؛ يُنشأ طلبك في متصفحك فقط."
+  },
+  "keyword": {
+    "tr": "GES, güneş enerjisi, elektrik taahhüt",
+    "en": "solar power plant, solar energy, electrical contracting",
+    "ar": "محطة شمسية، طاقة شمسية، مقاولات كهربائية"
+  },
+  "path": "teklif-al",
+  "icon": "request_quote",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "vk05ch"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Teklif Al",
+    "en": "Get a Quote",
+    "ar": "اطلب عرض سعر"
+  },
+  "date": "2026-10-31T14:50:24.694Z",
+  "update": "2026-10-31T14:50:24.695Z"
+}

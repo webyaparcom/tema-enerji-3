@@ -1,0 +1,43 @@
+{
+  "id": "s0t52lnlkh",
+  "name": {
+    "tr": "Belgelerimiz",
+    "en": "Certificates",
+    "ar": "شهاداتنا"
+  },
+  "description": {
+    "tr": "ISO belgeleri, yetki belgesi ve varsayım uyarısı.",
+    "en": "ISO certificates, licence and the assumptions notice.",
+    "ar": "شهادات ISO والترخيص وتنبيه الافتراضات."
+  },
+  "keyword": {
+    "tr": "belgeler, ISO",
+    "en": "certificates, ISO",
+    "ar": "شهادات، ISO"
+  },
+  "path": "belgelerimiz",
+  "icon": "verified",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "qcgdv9"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {
+    "tr": "<h2>Belgelerimiz</h2><p>Mavi Güneş Enerji, bu demo sitede elektrik taahhüt ve GES kurulumu yapan kurgusal bir firmadır. Aşağıdaki belge numaraları örnektir (DEMO).</p><ul><li>ISO 9001 Kalite Yönetimi — DEMO-9001</li><li>ISO 45001 İş Sağlığı ve Güvenliği — DEMO-45001</li><li>Elektrik taahhüt yetki belgesi — DEMO-ET-0001</li></ul><p>Üretim ve geri ödeme tahminleri çatı yönü, gölgelenme ve tüketim gibi varsayımlara dayanır; garanti değildir.</p><p><em>Demo sitedir; içerik kurgusaldır.</em></p>",
+    "en": "<h2>Our certificates</h2><p>On this demo site Mavi Güneş Enerji is a fictional company doing electrical contracting and solar installation. The certificate numbers below are samples (DEMO).</p><ul><li>ISO 9001 Quality Management — DEMO-9001</li><li>ISO 45001 Occupational Health and Safety — DEMO-45001</li><li>Electrical contracting licence — DEMO-ET-0001</li></ul><p>Production and payback estimates rest on assumptions such as roof orientation, shading and consumption; they are not guarantees.</p><p><em>This is a demo site; the content is fictional.</em></p>",
+    "ar": "<h2>شهاداتنا</h2><p>تُعدّ شركة مافي غونيش للطاقة في هذا الموقع التجريبي شركة افتراضية للمقاولات الكهربائية وتركيب الطاقة الشمسية. أرقام الشهادات أدناه أمثلة (DEMO).</p><ul><li>ISO 9001 إدارة الجودة — DEMO-9001</li><li>ISO 45001 الصحة والسلامة المهنية — DEMO-45001</li><li>رخصة المقاولات الكهربائية — DEMO-ET-0001</li></ul><p>تعتمد تقديرات الإنتاج والاسترداد على افتراضات مثل اتجاه السقف والتظليل والاستهلاك؛ وهي ليست ضمانات.</p><p><em>هذا موقع تجريبي والمحتوى افتراضي.</em></p>"
+  },
+  "title": {
+    "tr": "Belgelerimiz",
+    "en": "Certificates",
+    "ar": "شهاداتنا"
+  },
+  "date": "2026-10-31T14:50:24.691Z",
+  "update": "2026-10-31T14:50:24.692Z"
+}

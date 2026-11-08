@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "status": "play",
+  "id": "misyon",
+  "path": "misyon",
+  "category": "",
+  "text": {
+    "tr": "<h2>Misyonumuz</h2>\n<p>Misyonumuz, enerji dönüşümünü güvenli, açık varsayımlı ve sürdürülebilir kılmaktır.</p>",
+    "en": "<h2>Our mission</h2>\n<p>Our mission is to make the energy transition safe, openly assumption-based and sustainable.</p>",
+    "ar": "<h2>مهمتنا</h2>\n<p>مهمتنا جعل التحول في الطاقة آمنًا وقائمًا على افتراضات معلنة ومستدامًا.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "qcgdv9",
+      "mmdlkl"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 1,
+  "icon": "home",
+  "title": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "description": {
+    "tr": "Misyonumuz",
+    "en": "Our mission",
+    "ar": "مهمتنا"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2026-10-31T14:50:24.724Z",
+  "date": "2026-05-19"
+}

@@ -1,0 +1,58 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Mavi Güneş Enerji: çatı GES, şarj istasyonu ve depolama ön etüdü, elektrik taahhüt; teklif talebi ve belgeler. (Demo site)",
+    "en": "Mavi Güneş Enerji: rooftop solar, EV charging and storage pre-study, electrical contracting; quote requests and certificates. (Demo site)",
+    "ar": "مافي غونيش للطاقة: محطات شمسية على الأسطح ومحطات شحن ودراسة تخزين ومقاولات كهربائية مع طلب عرض سعر وشهادات. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "GES, güneş enerjisi, elektrik taahhüt",
+    "en": "solar power plant, solar energy, electrical contracting",
+    "ar": "محطة شمسية، طاقة شمسية، مقاولات كهربائية"
+  },
+  "category": "Kurumsal",
+  "name": "Mavi Güneş Enerji",
+  "domain": "enerji-3.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "icon": "icon.png",
+  "theme_color": "#4F46E5",
+  "publishMode": "static",
+  "font": {
+    "body": "open-sans",
+    "heading": "montserrat",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "phone": "+90 342 000 00 00",
+  "email": "teklif@mavigunes.example",
+  "colorScheme": "auto",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "13px",
+    "--mx-radius-md": "22px",
+    "--mx-radius-lg": "31px",
+    "--mx-radius-xl": "42px",
+    "--mx-shadow-md": "0 24px 60px rgba(79,70,229,.18)",
+    "--mx-dur": "280ms"
+  }
+}
