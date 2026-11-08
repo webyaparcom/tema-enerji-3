@@ -1,0 +1,41 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "status": "pause",
+  "id": "hakkimizda",
+  "path": "hakkimizda",
+  "category": "",
+  "text": {
+    "tr": "Mavi Güneş Enerji, yenilenebilir enerji ve elektrik tesisat işlerini açık varsayımlarla ve iş güvenliği önceliğiyle yürüten kurgusal bir demo firmadır. Bu sitedeki projeler, belgeler ve rakamlar kurgusaldır.",
+    "en": "Mavi Güneş Enerji is a fictional demo company that carries out renewable energy and electrical installation work with open assumptions and safety first. Projects, certificates and figures on this site are fictional.",
+    "ar": "مافي غونيش للطاقة شركة تجريبية افتراضية تنفّذ أعمال الطاقة المتجددة والتمديدات الكهربائية بافتراضات معلنة وبأولوية للسلامة. المشاريع والشهادات والأرقام في هذا الموقع افتراضية."
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "t1in01",
+      "tp5jo4",
+      "t1ct01"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 0,
+  "icon": "home",
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "description": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "keyword": {},
+  "update": "2026-10-31T14:50:24.722Z",
+  "date": "2026-05-19"
+}
