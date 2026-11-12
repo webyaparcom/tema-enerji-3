@@ -38,21 +38,21 @@
   <link rel="preload" href="/src/fonts/open-sans/open-sans-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/open-sans/open-sans-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/open-sans/open-sans-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/open-sans.css?v=dvd10" />
-  <link rel="stylesheet" href="/src/fonts/montserrat.css?v=dvd10" />
-  <link rel="stylesheet" href="/src/fonts/ibm-plex-sans-arabic.css?v=dvd10" />
-  <link rel="stylesheet" href="/src/fonts/noto-kufi-arabic.css?v=dvd10" />
-  <link rel="stylesheet" href="/src/rubik.css?v=dvd10" />
-  <link rel="stylesheet" href="/src/css.css?v=dvd10" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=dvd10" />
+  <link rel="stylesheet" href="/src/fonts/open-sans.css?v=dt76e" />
+  <link rel="stylesheet" href="/src/fonts/montserrat.css?v=dt76e" />
+  <link rel="stylesheet" href="/src/fonts/ibm-plex-sans-arabic.css?v=dt76e" />
+  <link rel="stylesheet" href="/src/fonts/noto-kufi-arabic.css?v=dt76e" />
+  <link rel="stylesheet" href="/src/rubik.css?v=dt76e" />
+  <link rel="stylesheet" href="/src/css.css?v=dt76e" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=dt76e" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=dvd10" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=dt76e" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=dvd10" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=dt76e" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=dvd10" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=dvd10" />
-  <link rel="shortcut icon" href="/img/icon.png?v=dvd10" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=dt76e" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=dt76e" />
+  <link rel="shortcut icon" href="/img/icon.png?v=dt76e" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -106,7 +106,7 @@
         "@type": "ImageObject",
         "url": "https://enerji-3.webyapar.com/img/logo.png"
       },
-      "dateModified": "2026-10-31T14:50:24.701Z",
+      "dateModified": "2026-11-12T07:35:45.560Z",
       "breadcrumb": {
         "@id": "https://enerji-3.webyapar.com/tr/hakkimizda/#breadcrumb"
       }
@@ -133,7 +133,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=dvd10">
+<link rel="stylesheet" href="style.css?v=dt76e">
 </head>
 
 <body>
@@ -247,6 +247,7 @@
       <nav class="h0001-m9-nav h0001-m9-nav--sag" aria-label="Navigasyon">
         <ul><li><a class="h0001-m9-oge" href="/tr/belgelerimiz/">Belgelerimiz</a></li><li><a class="h0001-m9-oge" href="/tr/galeri/">Galeri</a></li><li><a class="h0001-m9-oge" href="/tr/hakkimizda/" aria-current="page">Hakkımızda</a></li><li><a class="h0001-m9-oge" href="/tr/iletisim/">İletişim</a></li></ul>
       </nav>
+      
       <div class="h0001-m9-bar-dil"><nav class="wm-langbar" aria-label="Dil Seçici"><ul><li class="wm-lang-item wm-lang-active"><a href="/tr/hakkimizda/" hreflang="tr" lang="tr" aria-current="true">TR</a></li><li class="wm-lang-item"><a href="/en/hakkimizda/" hreflang="en" lang="en">EN</a></li><li class="wm-lang-item"><a href="/ar/hakkimizda/" hreflang="ar" lang="ar">AR</a></li></ul></nav></div>
       <button class="h0001-m9-hamburger" type="button" aria-expanded="false" aria-controls="m9-p2eutx-panel" aria-label="Menüyü Aç/Kapat">
         <span class="material-symbols-outlined" aria-hidden="true">menu</span>
@@ -298,6 +299,8 @@
     }
     if (dugme) { dugme.addEventListener("click", function () { if (panel && panel.hidden) { ac(); } else { kapa(); } }); }
     if (kapat) { kapat.addEventListener("click", kapa); }
+    
+    document.addEventListener("click", function (e) { if (panel && !panel.hidden && !panel.contains(e.target) && !(dugme && dugme.contains(e.target))) { kapa(); } });
     document.addEventListener("keydown", function (e) { if (e.key === "Escape") { kapa(); } });
     
     if (panel) {
@@ -335,7 +338,7 @@
   <div class="b0000">
     <div class="b0000-left">
       <img
-        src="/img/tmmkaz/enerji-3-sarj.webp?v=ovn9x"
+        src="/img/tmmkaz/enerji-3-sarj.webp?v=e7t0z"
         class="b0000-left-img"
         alt="Hakkımızda"
        loading="lazy"/>
@@ -361,7 +364,7 @@
 
 <section class="b0001-stats" data-stil="kartli">
   <div class="b0001-stats-container">
-    <div class="b0001-stats-item" style="animation-delay:0s"><div class="b0001-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">category</span></div><div class="b0001-stats-number" data-mx-count="6">0</div><div class="b0001-stats-label">Hizmet alanı</div></div><div class="b0001-stats-item" style="animation-delay:0.1s"><div class="b0001-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">verified</span></div><div class="b0001-stats-number" data-mx-count="3">0</div><div class="b0001-stats-label">Belge</div></div><div class="b0001-stats-item" style="animation-delay:0.2s"><div class="b0001-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">timeline</span></div><div class="b0001-stats-number" data-mx-count="4">0</div><div class="b0001-stats-label">Süreç adımı</div></div><div class="b0001-stats-item" style="animation-delay:0.30000000000000004s"><div class="b0001-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">monitor_heart</span></div><div class="b0001-stats-number" data-mx-count="24">0<span class="b0001-stats-suffix">sa</span></div><div class="b0001-stats-label">Üretim izleme</div></div>
+    <div class="b0001-stats-item" style="animation-delay:0s"><div class="b0001-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">category</span></div><div class="b0001-stats-number" data-mx-count="6">0</div><div class="b0001-stats-label">Hizmet alanı</div></div><div class="b0001-stats-item" style="animation-delay:0.1s"><div class="b0001-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">verified</span></div><div class="b0001-stats-number" data-mx-count="3">0</div><div class="b0001-stats-label">Belge</div></div><div class="b0001-stats-item" style="animation-delay:0.2s"><div class="b0001-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">timeline</span></div><div class="b0001-stats-number" data-mx-count="4">0</div><div class="b0001-stats-label">Süreç adımı</div></div><div class="b0001-stats-item" style="animation-delay:0.30000000000000004s"><div class="b0001-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">monitor_heart</span></div><div class="b0001-stats-number" data-mx-count="24">0<span class="b0001-stats-suffix">/7</span></div><div class="b0001-stats-label">Üretim izleme</div></div>
   </div>
 </section>
 
@@ -503,10 +506,10 @@
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=dvd10"></script>
-  <script defer src="/src/mx-store.js?v=dvd10"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=dvd10"></script>
-  <script defer src="/src/cookie.js?v=dvd10"></script>
+  <script defer src="/src/mx-ui.js?v=dt76e"></script>
+  <script defer src="/src/mx-store.js?v=dt76e"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=dt76e"></script>
+  <script defer src="/src/cookie.js?v=dt76e"></script>
 
 </body>
 
